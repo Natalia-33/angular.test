@@ -1,0 +1,29 @@
+/* .homepage {
+ display: grid;
+ display: table-row;
+  margin: 50px;
+}
+
+
+.example-card {
+  margin: 50px;
+ 
+    max-width: 400px;
+    box-shadow: 0 0 7 rgb(80, 79, 79);
+  }
+  .mat-card-title {
+    align-items: center;
+  }
+
+  .button {
+    width: auto;
+  }
+  
+  .example-header-image {
+    background-image: url('https://material.angular.io/assets/img/examples/shiba1.jpg');
+    background-size: cover;
+  } */
+
+  .card-content {
+    height: 130px;
+  }
